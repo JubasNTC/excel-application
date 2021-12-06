@@ -1,7 +1,9 @@
 /**/node_modules/
 /**/dist/
 
-.idea/
-.vscode/
+/**/.idea/
+/**/.vscode/
+
+/**/.nyc_output/
 
 /**/.env*
