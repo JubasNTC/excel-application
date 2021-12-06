@@ -27,3 +27,13 @@ Use following command in terminal for and run script.
 ```
 npm start
 ```
+
+Use following command in terminal for run tests.
+```
+npm test
+```
+
+Use following command in terminal for run tests coverage report.
+```
+npm run coverage
+```
